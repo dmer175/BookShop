@@ -1,0 +1,4 @@
+D:\Myvs\BookShop\Model\bin\Debug\BookShop.Model.dll
+D:\Myvs\BookShop\Model\bin\Debug\BookShop.Model.pdb
+D:\Myvs\BookShop\Model\obj\Debug\BookShop.Model.dll
+D:\Myvs\BookShop\Model\obj\Debug\BookShop.Model.pdb

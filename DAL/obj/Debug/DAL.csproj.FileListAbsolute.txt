@@ -1,0 +1,14 @@
+D:\Myvs\BookShop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.DAL.dll
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.DAL.pdb
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.DBUtility.dll
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.Model.dll
+D:\Myvs\BookShop\DAL\bin\Debug\Maticsoft.Common.dll
+D:\Myvs\BookShop\DAL\bin\Debug\MySql.Data.dll
+D:\Myvs\BookShop\DAL\bin\Debug\System.Data.SQLite.dll
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.DBUtility.pdb
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.Model.pdb
+D:\Myvs\BookShop\DAL\obj\Debug\BookShop.DAL.dll
+D:\Myvs\BookShop\DAL\obj\Debug\BookShop.DAL.pdb
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.IDAL.dll
+D:\Myvs\BookShop\DAL\bin\Debug\BookShop.IDAL.pdb

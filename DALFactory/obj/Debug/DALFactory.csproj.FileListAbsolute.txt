@@ -1,0 +1,15 @@
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DALFactory.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DALFactory.pdb
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DAL.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.IDAL.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.Model.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DBUtility.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\System.Data.SQLite.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\MySql.Data.dll
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DAL.pdb
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.IDAL.pdb
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.Model.pdb
+D:\Myvs\BookShop\DALFactory\bin\Debug\BookShop.DBUtility.pdb
+D:\Myvs\BookShop\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\Myvs\BookShop\DALFactory\obj\Debug\BookShop.DALFactory.dll
+D:\Myvs\BookShop\DALFactory\obj\Debug\BookShop.DALFactory.pdb

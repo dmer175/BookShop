@@ -1,0 +1,7 @@
+D:\Myvs\BookShop\DBUtility\bin\Debug\BookShop.DBUtility.dll
+D:\Myvs\BookShop\DBUtility\bin\Debug\BookShop.DBUtility.pdb
+D:\Myvs\BookShop\DBUtility\bin\Debug\MySql.Data.dll
+D:\Myvs\BookShop\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\Myvs\BookShop\DBUtility\obj\Debug\BookShop.DBUtility.dll
+D:\Myvs\BookShop\DBUtility\obj\Debug\BookShop.DBUtility.pdb
+D:\Myvs\BookShop\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Myvs\BookShop\IDAL\bin\Debug\BookShop.Model.dll
+D:\Myvs\BookShop\IDAL\bin\Debug\BookShop.Model.pdb
+D:\Myvs\BookShop\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\Myvs\BookShop\IDAL\bin\Debug\BookShop.IDAL.dll
+D:\Myvs\BookShop\IDAL\bin\Debug\BookShop.IDAL.pdb
+D:\Myvs\BookShop\IDAL\obj\Debug\BookShop.IDAL.dll
+D:\Myvs\BookShop\IDAL\obj\Debug\BookShop.IDAL.pdb
